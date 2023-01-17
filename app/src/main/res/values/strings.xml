@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DLC Cores</string>
+    <string name="enter_you_name_here">Enter you name here</string>
+    <string name="accept_button">Accept</string>
+    <string name="entered_name">Entered Name</string>
+    <string name="todo">TODO</string>
+</resources>
